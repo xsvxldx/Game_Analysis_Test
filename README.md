@@ -1,2 +1,3 @@
-# Game_Analysis_Test
-Data analysis test
+#### Game Data Analysis Test  
+
+Data analysis on fictional game data.
